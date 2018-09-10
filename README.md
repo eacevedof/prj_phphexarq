@@ -29,7 +29,8 @@
 ```
 
 ## 4 [Youtube - Objetos en PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=B7cmT86TIag&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=3)
-
+- Son métodos o mensajes
+- 
 
 ## 5 [Youtube - ]()
 
