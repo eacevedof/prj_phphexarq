@@ -10,6 +10,7 @@ class ComposerStaticInit68a88058e9e6971f9b4791759313cfe7
         'P' => 
         array (
             'Psr\\Log\\' => 8,
+            'Phphex\\' => 7,
         ),
         'M' => 
         array (
@@ -21,6 +22,10 @@ class ComposerStaticInit68a88058e9e6971f9b4791759313cfe7
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'Phphex\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Monolog\\' => 
         array (
