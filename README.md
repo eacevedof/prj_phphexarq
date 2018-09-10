@@ -38,6 +38,17 @@
 - Actuar (Act)
 - Verificar (Assert)
 - **comando:** `composer require phpunit/phpunit --dev`
+- Por convención se suele usar el mismo nombre más el sufijo **Test** ejemplo:`UserTest`
+```php
+//<project>/tests/UserTest.php
+use PHPUnit\Framework\TestCase;
+class UserTest extends TestCase
+{
+    ...
+}
+```
+- **comando:** `./vendor/bin/phpunit tests --color=auto`
+
 
 ## 6 [Youtube - ]()
 ## 7 [Youtube - ]()
