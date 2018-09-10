@@ -21,11 +21,11 @@ domain/
     exceptions/
     
 capa tecnica
-Estructure/
+Infrastructure/
     repository/
     adapters/
-    bd
-    cache
+    database/
+    cache/
     cola de trabajo
     motor de busqueda
     
