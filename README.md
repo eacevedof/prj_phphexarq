@@ -1,34 +1,31 @@
 # prj_phphexarq
 
-```
-capa de entradas y salidas
-inout/
-    http/
-        controllers/
-        views/
-    consola/
-        commands/
-    api/
-        controllers/
-        transformers/
-    
-casos de uso
-domain/
-    entities/
-    valueobjects/
-    services/
-    events/
-    exceptions/
-    
-capa tecnica
-Infrastructure/
-    repository/
-    adapters/
-    database/
-    cache/
-    cola de trabajo
-    motor de busqueda
-    
+```ssh
+├───public
+├───src
+│   ├───Domain
+│   │   ├───Entities
+│   │   ├───Events
+│   │   ├───Exceptions
+│   │   ├───Services
+│   │   └───Valueobjs
+│   ├───Infrastruc
+│   │   ├───Adapters
+│   │   └───Repositories
+│   └───Inout
+│       ├───Api
+│       │   ├───Controllers
+│       │   └───Transformers
+│       ├───Console
+│       │   └───Commands
+│       └───Http
+│           ├───Controllers
+│           └───Views
+├───tests
+└───vendor
+    ├───composer
+    ├───monolog
+    └───psr
 ```
 
 ## servicios
