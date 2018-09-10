@@ -20,4 +20,6 @@ class User
         $this->lastName = $lastName;
     }//setName
 
+    public function getFristName(){return $this->firstName;}
+
 }//User
