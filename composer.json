@@ -1,5 +1,20 @@
 {
+    "name" : "prj_phphexarq",
+    "description": "PHP - Arquitectura Hexagonal en Laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo A. F.",
+            "email": "@eacevedof"
+        }
+    ],
     "require": {
         "monolog/monolog": "^1.23"
+    },
+    "autoload":{
+        "psr-4": {
+            "Phphex\\" : "src/"
+        }
     }
 }
