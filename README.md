@@ -4,26 +4,26 @@
 capa de entradas y salidas
 inout/
     http/
-        controllers
-        views
+        controllers/
+        views/
     consola/
-        commands
+        commands/
     api/
-        controllers
-        transformers
+        controllers/
+        transformers/
     
 casos de uso
 domain/
-    entities
-    valueobjects
-    services
-    events
-    exceptions
+    entities/
+    valueobjects/
+    services/
+    events/
+    exceptions/
     
 capa tecnica
 Estructure/
-    repository
-    adapters
+    repository/
+    adapters/
     bd
     cache
     cola de trabajo
