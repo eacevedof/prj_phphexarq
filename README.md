@@ -37,8 +37,15 @@
 - Preparar (Arrange)
 - Actuar (Act)
 - Verificar (Assert)
+- **comando:** `composer require phpunit/phpunit --dev`
 
 ## 6 [Youtube - ]()
+## 7 [Youtube - ]()
+## 8 [Youtube - ]()
+## 9 [Youtube - ]()
+## 10 [Youtube - ]()
+## 11 [Youtube - ]()
+
 
 
 ## servicios
