@@ -1,7 +1,10 @@
 <?php
 namespace Phphex\Domain\Entities;
 
-class Author 
+class Author extends User
 {
-    
+    public function getLastName()
+    {
+        return $this->lastName;
+    }
 }//Author

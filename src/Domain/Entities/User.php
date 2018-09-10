@@ -3,12 +3,12 @@ namespace Phphex\Domain\Entities;
 
 class User 
 {
-    private $email;
-    private $password;
-    private $firstName;
-    private $lastName;
+    protected $email;
+    protected $password;
+    protected $firstName;
+    protected $lastName;
 
-    public function __construct($email,$password)
+    public function __construct($email="",$password="")
     {
         $this->email = $email;
         $this->password = password_hash($password,PASSWORD_DEFAULT);
