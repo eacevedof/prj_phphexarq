@@ -34,6 +34,9 @@
 - Herencia
 
 ## 5 [Youtube - Testing en PHP en Curso de PHP con Laravel](https://youtu.be/ZDEQQFx6HI4?list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&t=9)
+- Preparar (Arrange)
+- Actuar (Act)
+- Verificar (Assert)
 
 ## 6 [Youtube - ]()
 
