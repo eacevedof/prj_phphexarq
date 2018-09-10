@@ -48,7 +48,14 @@ class UserTest extends TestCase
 }
 ```
 - **comando:** `./vendor/bin/phpunit tests --color=auto`
-
+```php
+$ ./vendor/bin/phpunit tests --color=auto
+PHPUnit 7.3.5 by Sebastian Bergmann and contributors.
+..                                                                  2 / 2 (100%)
+Time: 173 ms, Memory: 4.00MB
+OK (2 tests, 2 assertions)
+```
+- `$this->setExpectedException(\InvalidArgumentException::class);` Espero que falle 
 
 ## 6 [Youtube - ]()
 ## 7 [Youtube - ]()
