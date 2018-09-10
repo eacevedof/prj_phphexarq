@@ -1,7 +1,7 @@
 <?php
-namespace Hexarq\Domain\Entities;
+namespace Phphex\Domain\Entities;
 
 class Author 
 {
-
+    
 }//Author
