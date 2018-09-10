@@ -30,3 +30,7 @@ Infrastructure/
     motor de busqueda
     
 ```
+
+## servicios
+- punto de conexión entre la web y las otras capas
+- el coordinador de todo lo que pasa en el dominio
