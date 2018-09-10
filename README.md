@@ -57,7 +57,9 @@ OK (2 tests, 2 assertions)
 ```
 - `$this->setExpectedException(\InvalidArgumentException::class);` Espero que falle 
 
-## 6 [Youtube - ]()
+## 6 [Youtube - Patrones De Diseño en Curso de PHP con Laravel](https://www.youtube.com/watch?v=J40LZad7GFg&index=5&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+-
+
 ## 7 [Youtube - ]()
 ## 8 [Youtube - ]()
 ## 9 [Youtube - ]()
