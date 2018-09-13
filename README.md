@@ -61,10 +61,12 @@ OK (2 tests, 2 assertions)
 - `$this->setExpectedException(\InvalidArgumentException::class);` Espero que falle 
 
 ## 6 [Youtube - Patrones De Diseño en Curso de PHP con Laravel](https://www.youtube.com/watch?v=J40LZad7GFg&index=5&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
-- Objetos con comportamiento común
-- 
+- Objetos con comportamiento común agrupados
 
-## 7 [Youtube - ]()
+## 7 [Youtube - Entidades con PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=T-YdDdMulog&index=6&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- Dominio = Problema a solucionar
+- La entidad es un concepto de objeto. El hecho que se asocie a una bd es pq coincide que usamos una bd.
+
 ## 8 [Youtube - ]()
 ## 9 [Youtube - ]()
 ## 10 [Youtube - ]()
