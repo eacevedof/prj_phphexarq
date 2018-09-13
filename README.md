@@ -31,6 +31,8 @@ height="300" width="400"/>
     └───psr
 ```
 
+# [Github - Repo platzilaravel](https://github.com/platzi/platzilaravel)
+
 ## 4 [Youtube - Objetos en PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=B7cmT86TIag&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=3)
 - Son métodos o mensajes
 - Protected 
@@ -67,7 +69,11 @@ OK (2 tests, 2 assertions)
 - Dominio = Problema a solucionar
 - La entidad es un concepto de objeto. El hecho que se asocie a una bd es pq coincide que usamos una bd.
 
-## 8 [Youtube - ]()
+## 8 [Youtube - Objetos De Valor con PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=3mQZXrD2XCI&index=7&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- Son como tipos primitivos convertidos en objetos
+- Ejemplo: Email
+- <img src="https://trello-attachments.s3.amazonaws.com/5b8bf24a217c8e0d0c69973e/600x312/48515ecc512439755541b0e1bf4dce96/image.png" height="200" width="400" />
+
 ## 9 [Youtube - ]()
 ## 10 [Youtube - ]()
 ## 11 [Youtube - ]()
