@@ -79,7 +79,10 @@ OK (2 tests, 2 assertions)
 - Value Object != Data Transfer Object. No usar Data Transfer Object.
 - Los objetos deben tener comportamientos. Data Transfer solo tiene datos no comportamientos.
 - Hay que hacer un modelo rico en objetos y no un modelo dependiente de datos.
-
+- Proceso de deploy. Envoyer ayuda a hacer deploy al igual que Forge.
+- Libro recomendado **Design patterns explained**
+- **Domain Driven Design** y **Implementing Domain Driven Design**
+- Para desacoplar se usan interfaces.
 
 ## 10 [Youtube - ]()
 ## 11 [Youtube - ]()
