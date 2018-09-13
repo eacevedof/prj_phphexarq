@@ -1,7 +1,8 @@
 # [Arquitectura Hexagonal Laravel por Guido Woda @guiwoda](https://www.youtube.com/watch?v=mOKh7n_Ycgk&index=1&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
 
 <img src="https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5b868426d6835a7f513bca60/c93707afa1dbc8c95f7fe605fdd88b9c/image.png" 
-height="300" width="400">
+height="300" width="400"/>
+
 ```ssh
 ├───public
 ├───src
@@ -60,7 +61,8 @@ OK (2 tests, 2 assertions)
 - `$this->setExpectedException(\InvalidArgumentException::class);` Espero que falle 
 
 ## 6 [Youtube - Patrones De Diseño en Curso de PHP con Laravel](https://www.youtube.com/watch?v=J40LZad7GFg&index=5&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
--
+- Objetos con comportamiento común
+- 
 
 ## 7 [Youtube - ]()
 ## 8 [Youtube - ]()
