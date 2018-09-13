@@ -84,7 +84,12 @@ OK (2 tests, 2 assertions)
 - **Domain Driven Design** y **Implementing Domain Driven Design**
 - Para desacoplar se usan interfaces.
 
-## 10 [Youtube - ]()
+## 10 [Youtube - Preguntas antes de Clase en Curso de PHP con Laravel](https://www.youtube.com/watch?v=IYheEc7upvc&index=9&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- 
+- La herencia es un acoplamiento
+- Mensajes estaticos. No se debería usar mensajes estaticos
+- 
+
 ## 11 [Youtube - ]()
 ## 12 [Youtube - ]()
 ## 13 [Youtube - ]()
