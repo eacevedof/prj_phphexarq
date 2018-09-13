@@ -75,9 +75,25 @@ OK (2 tests, 2 assertions)
 - Ejemplo: Email
 - <img src="https://trello-attachments.s3.amazonaws.com/5b8bf24a217c8e0d0c69973e/600x312/48515ecc512439755541b0e1bf4dce96/image.png" height="200" width="400" />
 
-## 9 [Youtube - ]()
+## 9 [Youtube - Preguntas y Respuestas en Clase en Curso de PHP con Laravel](https://www.youtube.com/watch?v=toF3ZL8C-nU&index=8&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- Value Object != Data Transfer Object. No usar Data Transfer Object.
+- Los objetos deben tener comportamientos. Data Transfer solo tiene datos no comportamientos.
+- Hay que hacer un modelo rico en objetos y no un modelo dependiente de datos.
+
+
 ## 10 [Youtube - ]()
 ## 11 [Youtube - ]()
+## 12 [Youtube - ]()
+## 13 [Youtube - ]()
+## 14 [Youtube - ]()
+## 15 [Youtube - ]()
+## 16 [Youtube - ]()
+## 17 [Youtube - ]()
+## 18 [Youtube - ]()
+## 19 [Youtube - ]()
+## 20 [Youtube - ]()
+## 21 [Youtube - ]()
+## 22 [Youtube - ]()
 
 
 
