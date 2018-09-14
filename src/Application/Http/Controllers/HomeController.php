@@ -7,9 +7,10 @@ class HomeController
     {
         ;
     }
-    
-    public function index()
+
+    public function index($request)
     {
+        var_dump($request);
         return "Hello World Controller";
     }
 
