@@ -105,7 +105,61 @@ OK (2 tests, 2 assertions)
 - Hay que evitar tanto acoplamiento con la web
 - Las vistas se gestionan con templates
 
-## 13 [Youtube - ]()
+## 13 [Youtube - Controlador en Curso de PHP con Laravel](https://www.youtube.com/watch?v=6T4mvRAFYhU&index=12&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- Es un mediador
+- Se asocia a un pedido HTTP 
+- Usa el request de Symfony
+- **comando:** `composer require illuminate/http`
+    - 
+    ```ssh
+    $ composer require illuminate/http
+    Using version ^5.7 for illuminate/http
+    ./composer.json has been updated
+    Loading composer repositories with package information
+    Updating dependencies (including require-dev)
+    Package operations: 17 installs, 0 updates, 0 removals
+    - Installing symfony/polyfill-ctype (v1.9.0): Loading from cache
+    - Installing symfony/polyfill-mbstring (v1.9.0): Loading from cache
+    - Installing symfony/http-foundation (v4.1.4): Loading from cache
+    - Installing symfony/event-dispatcher (v4.1.4): Loading from cache
+    - Installing symfony/debug (v4.1.4): Loading from cache
+    - Installing symfony/http-kernel (v4.1.4): Loading from cache
+    - Installing symfony/translation (v4.1.4): Loading from cache
+    - Installing nesbot/carbon (1.33.0): Downloading (100%)
+    - Installing psr/simple-cache (1.0.1): Loading from cache
+    - Installing psr/container (1.0.0): Loading from cache
+    - Installing illuminate/contracts (v5.7.3): Downloading (100%)
+    - Installing doctrine/inflector (v1.3.0): Loading from cache
+    - Installing illuminate/support (v5.7.3): Downloading (100%)
+    - Installing symfony/finder (v4.1.4): Loading from cache
+    - Installing illuminate/filesystem (v5.7.3): Downloading (100%)
+    - Installing illuminate/session (v5.7.3): Downloading (100%)
+    - Installing illuminate/http (v5.7.3): Downloading (100%)
+    symfony/event-dispatcher suggests installing symfony/dependency-injection ()
+    symfony/http-kernel suggests installing symfony/browser-kit ()
+    symfony/http-kernel suggests installing symfony/config ()
+    symfony/http-kernel suggests installing symfony/console ()
+    symfony/http-kernel suggests installing symfony/dependency-injection ()
+    symfony/http-kernel suggests installing symfony/var-dumper ()
+    symfony/translation suggests installing symfony/config ()
+    symfony/translation suggests installing symfony/yaml ()
+    illuminate/support suggests installing moontoast/math (Required to use ordered UUIDs (^1.1).)
+    illuminate/support suggests installing ramsey/uuid (Required to use Str::uuid() (^3.7).)
+    illuminate/support suggests installing symfony/process (Required to use the composer class (^4.1).)
+    illuminate/support suggests installing symfony/var-dumper (Required to use the dd function (^4.1).)
+    illuminate/filesystem suggests installing league/flysystem (Required to use the Flysystem local and FTP drivers (^1.0).)
+    illuminate/filesystem suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (^1.0).)
+    illuminate/filesystem suggests installing league/flysystem-cached-adapter (Required to use the Flysystem cache (^1.0).)
+    illuminate/filesystem suggests installing league/flysystem-rackspace (Required to use the Flysystem Rackspace driver (^1.0).)
+    illuminate/filesystem suggests installing league/flysystem-sftp (Required to use the Flysystem SFTP driver (^1.0).)
+    illuminate/session suggests installing illuminate/console (Required to use the session:table command (5.7.*).)
+    Writing lock file
+    Generating autoload files
+    ```
+    - laravel tiene una particularidad. Tiene, el **laravel/framework** el **/laravel** como esqueleto de la app y sus paquetes independientes estan en el ns **Illuminate**
+- levantar el servidor propio de php **comando:** `php -S localhost:3300`
+
+- 
 ## 14 [Youtube - ]()
 ## 15 [Youtube - ]()
 ## 16 [Youtube - ]()

@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "monolog/monolog": "^1.23"
+        "monolog/monolog": "^1.23",
+        "illuminate/http": "^5.7"
     },
     "autoload":{
         "psr-4": {
