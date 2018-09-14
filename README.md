@@ -110,7 +110,6 @@ OK (2 tests, 2 assertions)
 - Se asocia a un pedido HTTP 
 - Usa el request de Symfony
 - **comando:** `composer require illuminate/http`
-    - 
     ```ssh
     $ composer require illuminate/http
     Using version ^5.7 for illuminate/http
@@ -158,7 +157,6 @@ OK (2 tests, 2 assertions)
     ```
     - laravel tiene una particularidad. Tiene, el **laravel/framework** el **/laravel** como esqueleto de la app y sus paquetes independientes estan en el ns **Illuminate**
 - levantar el servidor propio de php **comando:** `php -S localhost:3300`
-
 - Uso del objeto **use Illuminate\Http\Request**
     ```php   
     object(Illuminate\Http\Request)#18 (27) {
