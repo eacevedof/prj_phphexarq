@@ -10,7 +10,7 @@ class HomeController
 
     public function index($request)
     {
-        var_dump($request);
+        echo $request->getRequestUri();
         return "Hello World Controller";
     }
 
