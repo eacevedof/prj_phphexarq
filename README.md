@@ -15,7 +15,7 @@ height="300" width="400"/>
 │   ├───Infrastruc
 │   │   ├───Adapters
 │   │   └───Repositories
-│   └───Inout
+│   └───Application (In/Out)
 │       ├───Api
 │       │   ├───Controllers
 │       │   └───Transformers
