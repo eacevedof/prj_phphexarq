@@ -31,8 +31,8 @@ height="300" width="400"/>
     └───psr
 ```
 
-# [Github - repo Platziphp](https://github.com/platzi/platziphp)
-# [Github - Repo PlatziLaravel](https://github.com/platzi/platzilaravel)
+### [Github - repo Platziphp](https://github.com/platzi/platziphp)
+### [Github - Repo PlatziLaravel](https://github.com/platzi/platzilaravel)
 
 ## 4 [Youtube - Objetos en PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=B7cmT86TIag&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=3)
 - Son métodos o mensajes
@@ -85,9 +85,11 @@ OK (2 tests, 2 assertions)
 - Para desacoplar se usan interfaces.
 
 ## 10 [Youtube - Preguntas antes de Clase en Curso de PHP con Laravel](https://www.youtube.com/watch?v=IYheEc7upvc&index=9&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
-- 
 - La herencia es un acoplamiento
 - Mensajes estaticos. No se debería usar mensajes estaticos
+- Cuando usar un trait y cuando una interface. En teoria de objetos el traits es algo auxiliar.
+- Gestor de versiones de php [PHP Brew](https://github.com/phpbrew/phpbrew)
+- En PHP7 se pueden pasar argumentos tipados y definir los tipos devueltos en comentarios
 - 
 
 ## 11 [Youtube - ]()
