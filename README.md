@@ -90,7 +90,9 @@ OK (2 tests, 2 assertions)
 - Cuando usar un trait y cuando una interface. En teoria de objetos el traits es algo auxiliar.
 - Gestor de versiones de php [PHP Brew](https://github.com/phpbrew/phpbrew)
 - En PHP7 se pueden pasar argumentos tipados y definir los tipos devueltos en comentarios
-- 
+- Buenas practicas para usar php. [PHP The right way](https://phptherightway.com/)
+- [Vagrant y PuPHPet](https://www.youtube.com/watch?v=Y4POP-XcS38)
+- La maquina virtual de laravel es Homstead y recomienda Nginx
 
 ## 11 [Youtube - ]()
 ## 12 [Youtube - ]()
