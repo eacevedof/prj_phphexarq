@@ -110,6 +110,7 @@ OK (2 tests, 2 assertions)
 - Se asocia a un pedido HTTP 
 - Usa el request de Symfony
 - **comando:**  `composer require illuminate/http`
+    
     ```ssh
     $ composer require illuminate/http
     Using version ^5.7 for illuminate/http
