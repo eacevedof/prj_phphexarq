@@ -99,9 +99,12 @@ OK (2 tests, 2 assertions)
 - Collections
 - Todos los frameworks ahora trabajan con rutas
 - Ahora se hace APIs
-- 
 
-## 12 [Youtube - ]()
+## 12 [Youtube - 12 Modelo vista controlador en PHP en Curso de PHP con Laravel](https://www.youtube.com/watch?v=SFygN2rByIU&index=11&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf)
+- <img src="https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5b8bf24a217c8e0d0c69973e/3189bd1072bbb2a48a04c5626eead8b7/image.png" height="200" width="400"/> 
+- Hay que evitar tanto acoplamiento con la web
+- Las vistas se gestionan con templates
+
 ## 13 [Youtube - ]()
 ## 14 [Youtube - ]()
 ## 15 [Youtube - ]()
