@@ -94,7 +94,10 @@ OK (2 tests, 2 assertions)
 - [Vagrant y PuPHPet](https://www.youtube.com/watch?v=Y4POP-XcS38)
 - La maquina virtual de laravel es Homstead y recomienda Nginx
 
-## 11 [Youtube - ]()
+## 11 [Youtube - Iniciando en PHP para Web en Curso de PHP con Laravel](https://www.youtube.com/watch?v=Omd2N6In7E4&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=10)
+- Patron MVC
+- Collections
+
 ## 12 [Youtube - ]()
 ## 13 [Youtube - ]()
 ## 14 [Youtube - ]()
