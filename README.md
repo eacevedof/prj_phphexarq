@@ -241,7 +241,8 @@ OK (2 tests, 2 assertions)
     ```
 
 ## 14 [Youtube - Vista en Curso de PHP con Laravel](https://www.youtube.com/watch?v=hgtlldu7n7o&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=13)
-- 
+- defino carpetas vistas y clase Vista
+- hago cambios para que sea la vista la que gestione un template y params
 
 ## 15 [Youtube - ]()
 ## 16 [Youtube - ]()
