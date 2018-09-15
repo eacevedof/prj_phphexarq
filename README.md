@@ -239,9 +239,10 @@ OK (2 tests, 2 assertions)
     ["isForwardedValid":"Symfony\Component\HttpFoundation\Request":private]=> bool(true)
     }
     ```
+
+## 14 [Youtube - Vista en Curso de PHP con Laravel](https://www.youtube.com/watch?v=hgtlldu7n7o&list=PLHseQfu4Nn9fHNcLfF_ZP6noF24xtMtAf&index=13)
 - 
 
-## 14 [Youtube - ]()
 ## 15 [Youtube - ]()
 ## 16 [Youtube - ]()
 ## 17 [Youtube - ]()

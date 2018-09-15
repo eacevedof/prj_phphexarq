@@ -1,6 +1,8 @@
 <?php
 namespace Phphex\Application\Http\Controllers;
 
+use Phphex\Application\Http\Views\View;
+
 class HomeController
 {
     public function __construct()
@@ -10,8 +12,9 @@ class HomeController
 
     public function index($request)
     {
-        echo $request->getRequestUri();
-        return "Hello World Controller";
+        $view = new View("home",["message" => "Hello from a view"]);
+        $response = $view->render();
+        $response->send();
     }
 
 }//HomeController
